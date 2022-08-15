@@ -27,3 +27,4 @@
 
 Для того щоб вийти з режиму перегляду комітів використовуйте клавішу q (стосується команди №20 і №21)
 
+git remote set-url origin git@github.com:vicman-wi/wi-backend.git
